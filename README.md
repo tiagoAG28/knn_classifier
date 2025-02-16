@@ -1,6 +1,8 @@
 
 # knn_classifier
 =======
+Trabalho realizado por: Beatriz Oliveira e Tiago Gomes
+=======
 KNN Classifier
 
 ##Descrição
@@ -63,13 +65,13 @@ Para instalar as bibliotecas necessárias, execute:
 pip install numpy matplotlib
 ```
 
-#Como usar
-###Clonar este repositório para a sua máquina local
+# Como usar
+### Clonar este repositório para a sua máquina local
 
 git clone https://github.com/tiagoAG28/knn-classifier.git
 cd knn-classifier
 
-###Executar o script knn_classifier.py
+### Executar o script knn_classifier.py
 
 python knn_classifier.py
 
@@ -80,7 +82,7 @@ Número de vizinhos (k): Define o número de vizinhos a serem considerados no KN
 Normalizar dados?: Se yes, os dados serão normalizados.
 Escolha do exemplo: Se 1, gera dados com duas classes; se 2, gera dados com três classes.
 
-#Exemplo de Output
+# Exemplo de Output
 Gráficos Gerados:
 Dados Gerados: Gráfico com a distribuição dos pontos de cada classe.
 Fronteira de Decisão: Gráfico mostrando a fronteira de decisão do modelo KNN.
