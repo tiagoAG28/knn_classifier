@@ -68,7 +68,7 @@ pip install numpy matplotlib
 # Como usar
 ### Clonar este repositório para a sua máquina local
 
-git clone https://github.com/tiagoAG28/knn-classifier.git
+git clone https://github.com/tiagoAG28/knn_classifier.git
 cd knn-classifier
 
 ### Executar o script knn_classifier.py
