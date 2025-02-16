@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # knn_classifier
 =======
 KNN Classifier
@@ -89,4 +89,4 @@ Previsões para Novos Pontos: Visualização das previsões do modelo para novos
 Exemplo de previsões:
 
 Previsões para novos pontos: [0 1 0 1]
->>>>>>> cadaedb (added knn_streamlit.py, knn_classifier.py, README.md)
+
