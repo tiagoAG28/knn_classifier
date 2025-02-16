@@ -1,11 +1,11 @@
 
 # knn_classifier
-=======
-Trabalho realizado por: Beatriz Oliveira e Tiago Gomes
-=======
+
+# Trabalho realizado por: Beatriz Oliveira e Tiago Gomes
+
 KNN Classifier
 
-##Descrição
+## Descrição
 Este projeto implementa um classificador KNN (K-Nearest Neighbors) em Python.  
 O algoritmo KNN classifica novos pontos com base nos **k** vizinhos mais próximos dos dados de treino, utilizando a votação maiotária.  
 Além disso, o projeto permite:
