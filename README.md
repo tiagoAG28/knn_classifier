@@ -78,14 +78,20 @@ python knn_classifier.py
 O script irá solicitar ao utilizador os seguintes parâmetros:
 
 Número de pontos para cada classe: Define a quantidade de pontos a serem gerados para cada classe.
+
 Número de vizinhos (k): Define o número de vizinhos a serem considerados no KNN.
+
 Normalizar dados?: Se yes, os dados serão normalizados.
+
 Escolha do exemplo: Se 1, gera dados com duas classes; se 2, gera dados com três classes.
 
 # Exemplo de Output
 Gráficos Gerados:
+
 Dados Gerados: Gráfico com a distribuição dos pontos de cada classe.
+
 Fronteira de Decisão: Gráfico mostrando a fronteira de decisão do modelo KNN.
+
 Previsões para Novos Pontos: Visualização das previsões do modelo para novos pontos.
 
 Exemplo de previsões:
